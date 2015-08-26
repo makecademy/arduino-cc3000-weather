@@ -5,3 +5,11 @@ body {
 .row {
   margin-top: 25px;
 }
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
