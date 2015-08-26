@@ -21,8 +21,8 @@
 #define ADAFRUIT_CC3000_CS    10
 
 // WiFi network (change with your settings !)
-#define WLAN_SSID       "KrakowskiePrzedm51m.15(flat15)"
-#define WLAN_PASS       "KrK51flat15_1944_15"
+#define WLAN_SSID       "your_SSID"
+#define WLAN_PASS       "your_password"
 #define WLAN_SECURITY   WLAN_SEC_WPA2
 
 // DHT11 sensor pins
