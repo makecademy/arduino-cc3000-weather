@@ -1,4 +1,4 @@
-# WiFi Weather Station
+# WiFi Weather Station [![Build Status](https://travis-ci.org/openhomeautomation/arduino-cc3000-weather.svg)](https://travis-ci.org/openhomeautomation/arduino-cc3000-weather)
 
 This is the code for the "Make a WiFi Weather Station With Arduino and the CC3000 chip" article on the Open Home Automation website. The article is about remotely measuring temperature & humidity with Arduino and the CC3000 WiFi chip.
 
